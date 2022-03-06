@@ -1,0 +1,43 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "大胖猫",
+      "password": "123456"
+    }
+  ],
+  "article": [
+    {
+      "id": 1,
+      "title": "ngrx-example",
+      "author": "大胖猫",
+      "body": ""
+    },
+    {
+      "id": 1,
+      "title": "NgRx最佳实践",
+      "author": "大胖猫",
+      "body": ""
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "value": "前端"
+    },
+    {
+      "id": 2,
+      "value": "后端"
+    }
+  ],
+  "tag": [
+    {
+      "id": 1,
+      "value": "Angular"
+    },
+    {
+      "id": 2,
+      "value": "TypeScript"
+    }
+  ]
+}
